@@ -1,6 +1,6 @@
 # Cryptocurrency Trading Bot
 
-This project is a basic framework for creating a cryptocurrency trading bot that automates trading using popular technical indicators like the Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD). Please note that this is a programming tutorial and not investment advice.
+This project is a basic framework for creating a cryptocurrency trading bot that automates trading using popular technical indicators like the Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD).
 
 ## Overview
 
