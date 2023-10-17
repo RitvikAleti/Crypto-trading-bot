@@ -12,7 +12,7 @@ The project follows a three-step process:
 
 ### Step 1: Connect to an Exchange to Fetch Live Data
 
-We use the CCXT library to connect to the Binance exchange and fetch cryptocurrency price data. You can use other exchanges and APIs as well.
+We use the CCXT library to connect to the Binance exchange, for example, and fetch cryptocurrency price data. You can use other exchanges and APIs as well.
 
 ### Step 2: Apply the Trading Strategy
 
