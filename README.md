@@ -1,6 +1,3 @@
-Certainly, here's a README file that you can use for your project on GitHub:
-
-```markdown
 # Cryptocurrency Trading Bot
 
 This project is a basic framework for creating a cryptocurrency trading bot that automates trading using popular technical indicators like the Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD). Please note that this is a programming tutorial and not investment advice.
@@ -38,10 +35,6 @@ To execute trades programmatically, you need an exchange that provides trading A
 - Set up your API keys and trading preferences in the configuration file.
 - Run the bot to start trading.
 
-## Disclaimer
-
-This project is for educational purposes and should not be considered financial advice. Trading cryptocurrencies involves risks, and the profitability of this basic bot may vary based on market conditions.
-
 ## Further Improvements
 
 This project provides a simple framework for creating a trading bot. You can further enhance it by:
@@ -58,10 +51,5 @@ This basic trading bot framework is a starting point for building your own tradi
 
 **Note:** Keep in mind that external factors beyond technical analysis can significantly impact trading results.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-```
-
-Remember to create a `LICENSE.md` file with the MIT License or any other license you prefer. Also, make sure to include a section on how to set up the project, configure API keys, and run the trading bot in your repository's documentation.
